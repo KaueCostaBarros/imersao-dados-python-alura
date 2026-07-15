@@ -9,13 +9,14 @@ O projeto permite explorar informações de forma dinâmica por meio de filtros,
 ## 🚀 Demonstração
 
 🔗 **Acesse o projeto:**
-*(adicione aqui o link do Streamlit)*
+*(https://imersao-dados-python-alura-kaue.streamlit.app/)*
 
 ---
 
 ## 📸 Preview
 
-> Adicione aqui uma captura de tela do dashboard.
+<img width="1916" height="982" alt="image" src="https://github.com/user-attachments/assets/fe3d519d-755d-4929-8b0c-91bd44519269" />
+
 
 ```
 📷 dashboard.png
