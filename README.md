@@ -4,7 +4,7 @@ Dashboard interativo desenvolvido durante a Imersão de Dados com Python da Alur
 
 **[Acesse o projeto](https://imersao-dados-python-alura-kaue.streamlit.app/)**
 
-![Preview do dashboard](https://github.com/user-attachments/assets/56014585-f006-4e90-8728-b3990fab379e)
+![Preview do dashboard](assets/dashboard.png)
 
 ## Sobre os dados
 
